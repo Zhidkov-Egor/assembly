@@ -1,0 +1,40 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "breadcrumbs.enabled": false,
+  "files.defaultLanguage": "html",
+  "editor.detectIndentation": false,
+  "editor.folding": false,
+  "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+  "editor.renderWhitespace": "boundary",
+  "editor.lineHeight": 23,
+  "explorer.confirmDelete": false,
+  "security.workspace.trust.enabled": false,
+  "bracketPairColorizer.depreciation-notice": false,
+  "editor.linkedEditing": true,
+  "ecsstractor_port.add_comment": false,
+  "ecsstractor_port.empty_line_before_nested_selector": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "scss.validate": false,
+  "css.validate": false,
+  "less.validate": false,
+  "stylelint.enable": true,
+  "stylelint.validate": [
+    "css",
+    "scss",
+    "less",
+    "postcss"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.singleQuote": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "vscodeGoogleTranslate.preferredLanguage": "Russian",
+  "workbench.sideBar.location": "right",
+  "files.autoSave": "onFocusChange"
+}
